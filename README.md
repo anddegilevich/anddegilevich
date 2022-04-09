@@ -1,6 +1,6 @@
 # ANDREY DEGILEVICH
 ## Unity Development
-![Unity Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Unity Development](https://github.com/AnonimBezDeneg/AnonimBezDeneg/blob/main/Images/AboutMe.png)
 
 I am Andrey from <b>Saint-Petersburg, Russia</b>. I am multidisciplinary developer currently focused in Unity, especially in VR implementations.
 
@@ -22,7 +22,8 @@ Bachelor’s degree in Biotechnical Systems and Technologies
 RU (Native), EN (Upper-Intermediate)
 
 ### Additional information:
-
+Previously was focused on data analysis for such issues like implementation of the big data algorithms and neuron networks in medical data processing. Have developed mainly on Python using such libraries as Pytorch, Pandas and Tensor Flow. So I have advanced skills in the field of working with databases.  
+Also, I have certain experience in creating video effects, 2D graphic objects and rig animation. Most of the grafics for my projects was created myself.
 
 ## Contact information:
 <b>Email:</b> AnonimBezDeneg@gmail.com  
