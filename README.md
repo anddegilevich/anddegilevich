@@ -2,13 +2,13 @@
 ## Unity Development
 ![Unity Development](https://github.com/AnonimBezDeneg/AnonimBezDeneg/blob/main/Images/AboutMe.png)
 
-I am Andrey from <b>Saint-Petersburg, Russia</b>. I am multidisciplinary developer currently focused in Unity, especially in VR implementations.
+I am Andrey from <b>Saint-Petersburg, Russia</b>. I am a multidisciplinary developer currently focused in Unity, especially in VR implementations.
 
 ## Current Projects:
 - [CPRSimulator](https://github.com/AnonimBezDeneg/CPRSimulator). A VR simulator, that helps to get required knowledge and skills to correctly perform curdiopulmonary resuscitation (CPR).
 
 ## Skills:
-### Langueges:
+### Languages:
 C#, PY, MATLAB
 
 ### Tools:
