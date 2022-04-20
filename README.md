@@ -26,7 +26,7 @@ Previously was focused on data analysis for such issues like implementation of t
 Also, I have certain experience in creating video effects, 2D graphic objects and rig animation. Most of the grafics for my projects was created myself.
 
 ## Contact information:
-<b>Email:</b> AnonimBezDeneg@gmail.com  
+<b>Email:</b> Deg548@gmail.com  
   
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AnonimBezDeneg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/AnonimBezDeneg/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/CKDS/)
 
