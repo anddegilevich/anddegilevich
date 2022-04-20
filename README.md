@@ -5,7 +5,8 @@
 I am Andrey from <b>Saint-Petersburg, Russia</b>. I am a multidisciplinary developer currently focused on Unity, especially in VR implementations.
 
 ## Current Projects:
-- [CPRSimulator](https://github.com/AnonimBezDeneg/CPRSimulator). A VR simulator, that helps to get required knowledge and skills to correctly perform curdiopulmonary resuscitation (CPR).
+- [CPR Simulator](https://github.com/AndreyCKDS/CPRSimulator). A VR simulator, that helps to get required knowledge and skills to correctly perform curdiopulmonary resuscitation (CPR).
+- [Metalheads Dungeon](https://github.com/AndreyCKDS/MetalheadsDungeon). A rogue-like game which combines game mechanics of top-down-shooter, rogue-like game and rythm game with combo system.
 
 ## Skills:
 ### Languages:
