@@ -7,6 +7,7 @@ I am Andrey from <b>Saint-Petersburg, Russia</b>. I am a multidisciplinary devel
 ## Current Projects:
 - [CPR Simulator](https://github.com/AndreyCKDS/CPRSimulator). A VR simulator, that helps to get required knowledge and skills to correctly perform cardiopulmonary resuscitation (CPR).
 - [Metalheads Dungeon](https://github.com/AndreyCKDS/MetalheadsDungeon). A rogue-like game which combines game mechanics of top-down-shooter, rogue-like game and rhythm game with combo system.
+- [Medical Apps Classifier](https://github.com/AndreyCKDS/MedicalAppsClassifier ). An app that uses ANN to classify medical apps and advanced data analysis algorithms to assess their quality and safety.
 
 ## Skills:
 ### Languages:
