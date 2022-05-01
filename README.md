@@ -9,6 +9,10 @@ I am Andrey from <b>Saint-Petersburg, Russia</b>. I am a multidisciplinary devel
 - [Metalheads Dungeon](https://github.com/AndreyCKDS/MetalheadsDungeon). A rogue-like game which combines game mechanics of top-down-shooter, rogue-like game and rhythm game with combo system.
 - [Medical Apps Classifier](https://github.com/AndreyCKDS/MedicalAppsClassifier ). An app that uses ANN to classify medical apps and advanced data analysis algorithms to assess their quality and safety.
 
+## Test Tasks:
+
+- [Test task](https://github.com/AndreyCKDS/TestTask). During this test task a 3D room with an environment was created. An animated and fully controlled character was implemented. Also there are such features as the UI for equip/unequip clothes, sound effects, post processing and multiplayer.
+
 ## Skills:
 ### Languages:
 C#, PY, MATLAB
