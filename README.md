@@ -8,6 +8,7 @@ I am Andrey from <b>Saint-Petersburg, Russia</b>. I am a multidisciplinary devel
 - [CPR Simulator](https://github.com/AndreyCKDS/CPRSimulator) [Unity, C#]. A VR simulator, that helps to get required knowledge and skills to correctly perform cardiopulmonary resuscitation (CPR).
 
 ## Complited Projects:
+- [News App](https://github.com/AndreyCKDS/NewsApp) [Kotlin]. News App is the simple news aggregator application on a popular stack.
 - [Medical Apps Classifier](https://github.com/AndreyCKDS/MedicalAppsClassifier) [Python]. An app that uses ANN to classify medical apps and advanced data analysis algorithms to assess their quality and safety.
 - [ECG Processing](https://github.com/AndreyCKDS/ECGProcessing) [MATLAB]. This directory contains different methods for processing electrocardiosignal.
 - [EEG Processing](https://github.com/AndreyCKDS/EEGProcessing) [MATLAB]. This directory contains different methods for processing electroencephalogram.
