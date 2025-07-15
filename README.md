@@ -1,17 +1,18 @@
 # Andrey Degilevich
 ## Kotlin Developer / Android Developer / KMM Developer
 
-I am Andrey from <b>Saint-Petersburg, Russia</b>. I am a multidisciplinary developer currently focused on mobile apps creation using Kotlin.
+I am Andrey from <b>Saint-Petersburg, Russia</b>. I am a multidisciplinary developer currently focused on mobile apps creation using Kotlin Multiplatform.
 
 ## Mobile App Projects:
-- [DIA Companion](https://github.com/AndreyCKDS/DIACompanion) [Kotlin, Java]. An Android app for a remote monitoring system for patients with diabetes.
+- [Dream](https://github.com/anddegilevich/Dream) [Kotlin, Swift]. A Kotlin multiplatform mobile sample project on the cutting-edge stack. 
+- [DIA Companion](https://github.com/anddegilevich/DIACompanion) [Kotlin, Java]. An Android app for a remote monitoring system for patients with diabetes.
 
 ## Other Projects:
-- [Medical Apps Classifier](https://github.com/AndreyCKDS/MedicalAppsClassifier) [Python]. An app that uses ANN to classify medical apps and advanced data analysis algorithms to assess their quality and safety.
-- [ECG Processing](https://github.com/AndreyCKDS/ECGProcessing) [MATLAB]. This directory contains different methods for processing electrocardiosignal.
-- [EEG Processing](https://github.com/AndreyCKDS/EEGProcessing) [MATLAB]. This directory contains different methods for processing electroencephalogram.
-- [HRV Processing](https://github.com/AndreyCKDS/HRVProcessing) [MATLAB]. This directory contains different methods for processing heart rate variability.
-- [CPR Simulator](https://github.com/AndreyCKDS/CPRSimulator) [Unity, C#]. A VR simulator, that helps to get required knowledge and skills to correctly perform cardiopulmonary resuscitation (CPR).
+- [Medical Apps Classifier](https://github.com/anddegilevich/MedicalAppsClassifier) [Python]. An app that uses ANN to classify medical apps and advanced data analysis algorithms to assess their quality and safety.
+- [ECG Processing](https://github.com/anddegilevich/ECGProcessing) [MATLAB]. This directory contains different methods for processing electrocardiosignal.
+- [EEG Processing](https://github.com/anddegilevich/EEGProcessing) [MATLAB]. This directory contains different methods for processing electroencephalogram.
+- [HRV Processing](https://github.com/anddegilevich/HRVProcessing) [MATLAB]. This directory contains different methods for processing heart rate variability.
+- [CPR Simulator](https://github.com/anddegilevich/CPRSimulator) [Unity, C#]. A VR simulator, that helps to get required knowledge and skills to correctly perform cardiopulmonary resuscitation (CPR).
 
 ## Skills:
 ### Languages:
