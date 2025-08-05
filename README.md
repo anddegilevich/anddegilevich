@@ -1,5 +1,5 @@
-# Andrey Degilevich
-## Kotlin Developer / Android Developer / KMM Developer
+# Andrei Degilevich
+## Kotlin Multiplatform / Android Developer
 
 I am Andrey from <b>Saint-Petersburg, Russia</b>. I am a multidisciplinary developer currently focused on mobile apps creation using Kotlin Multiplatform.
 
@@ -26,13 +26,13 @@ Magister’s degree in Biotechnical Systems and Technologies;
 Bachelor’s degree in Biotechnical Systems and Technologies
 
 ### Speaking:
-RU (Native), EN (B2, Upper-Intermediate)
+EN (C1, Advanced), RU (Native)
 
 ### Additional information:
 Previously was focused on data analysis for such issues like implementation of the big data algorithms and neuron networks in medical data processing. Have developed mainly on Python using such libraries as Pytorch, Pandas and Tensor Flow. So I have advanced skills in the field of working with databases.  
 <p>Also, I have certain experience in creating video effects, 2D graphic objects and rig animation. Most of the grafics for my projects was created myself.</p>
 
 ## Contact information:
-<b>Email:</b> and.degilevich@ya.ru  
+<b>Email:</b> andrei.degilevich@gmail.com  
 
-[<b>LinkedIn</b>](https://www.linkedin.com/in/andrey-degilevich-01946a25b/)
+[<b>LinkedIn</b>](https://www.linkedin.com/in/andrei-degilevich)
