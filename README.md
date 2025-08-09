@@ -11,14 +11,14 @@ I excel at architecting scalable and multimodular software solutions that suppor
 My technical proficiency spans the latest frameworks and technologies, such as **Jetpack Compose** and **Kotlin Coroutines**, and I am committed to continuous learning to stay ahead in the fast-evolving mobile landscape. 
 Additionally, I have advanced knowledge of AI, machine learning, and data processing, enabling me to build intelligent, data-driven applications that deliver real value.
 
+## Pet Projects:
+[**Dream**](https://github.com/anddegilevich/Dream) is a sample multimodal **Kotlin Multiplatform Mobile** app with shared **Compose Multiplatform** UI.
+
 ## Skills:
 ### Android: 
 Kotlin, Coroutines, Jetpack Compose, KMP (Kotlin Multiplatform), Koin, Ktor, Serialization, Room, Decompose, MVI Kotlin, Detekt, ML Kit, Android SDK, Android Jetpack, Google Services, Firebase, MVI, MVVM, MVP, JUnit, Espresso, Dagger/Hilt, RXJava, Java, XML, Coil, Material.
 ### Other:
 Gradle, Git, SQL, Swift, Markdown, RESTful API. 
-
-## Pet Projects:
-[**Dream**](https://github.com/anddegilevich/Dream) is a sample multimodal **Kotlin Multiplatform Mobile** app with shared **Compose Multiplatform** UI.
 
 ## Education:
 Saint Petersburg State Electrotechnical University "LETI"​, St.‌‌‌‌ Petersburg 
